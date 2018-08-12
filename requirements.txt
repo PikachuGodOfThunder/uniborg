@@ -1,7 +1,1 @@
 telethon
-regex
-urbandict
-requests
-Pillow
-hachoir
-cryptg
