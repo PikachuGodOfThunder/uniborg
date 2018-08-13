@@ -1,3 +1,4 @@
+telethon
 regex
 urbandict
 requests
