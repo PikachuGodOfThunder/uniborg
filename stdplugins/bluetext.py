@@ -6,4 +6,4 @@ from telethon import events
 async def _(event):
    if event.fwd_from
         return
-   await.event_edit("BLUE TEXT\n MUST CLICK\n I AM A STUPID ANIMAL THAT IS ATTRACTED TO COLORS")
+   await.event.edit("BLUE TEXT\n MUST CLICK\n I AM A STUPID ANIMAL THAT IS ATTRACTED TO COLORS")
