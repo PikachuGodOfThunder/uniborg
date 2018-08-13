@@ -6,3 +6,4 @@ hachoir
 cryptg
 cfscrape
 beautifulsoup4
+gsearch==1.6.0
